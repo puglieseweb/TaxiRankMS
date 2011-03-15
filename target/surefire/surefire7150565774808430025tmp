@@ -1,0 +1,5 @@
+#surefire
+#Tue Mar 15 12:08:00 GMT 2011
+user.dir=/home/pweb/dev/prjs/java/workspace/TaxiRankMS
+localRepository=/home/pweb/.m2/repository
+basedir=/home/pweb/dev/prjs/java/workspace/TaxiRankMS

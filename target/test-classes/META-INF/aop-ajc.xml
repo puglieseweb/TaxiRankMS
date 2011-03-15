@@ -1,0 +1,13 @@
+<aspectj>
+<aspects>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiDataOnDemand_Roo_Configurable"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiIntegrationTest_Roo_Configurable"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRankDataOnDemand_Roo_Configurable"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRankIntegrationTest_Roo_Configurable"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRankDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRankIntegrationTest_Roo_IntegrationTest"/>
+</aspects>
+</aspectj>
+

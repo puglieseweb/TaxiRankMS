@@ -1,0 +1,13 @@
+<aspectj>
+<aspects>
+<aspect name="com.puglieseweb.test.trms.server.domain.Taxi_Roo_ToString"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRank_Roo_ToString"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.Taxi_Roo_Entity"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRank_Roo_Entity"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRank_Roo_Configurable"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.TaxiRank_Roo_JavaBean"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.Taxi_Roo_Configurable"/>
+<aspect name="com.puglieseweb.test.trms.server.domain.Taxi_Roo_JavaBean"/>
+</aspects>
+</aspectj>
+
